@@ -1,2 +1,3 @@
-# daft-pad
-Daft Pad est un Launchpad virtuel en l'honneur du groupe Daft Punk 🤖
+# Daft Pad
+
+Daft Pad est un Launchpad virtuel minimaliste en l'honneur du groupe Daft Punk 🤖
